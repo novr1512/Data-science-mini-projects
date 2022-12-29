@@ -8,4 +8,4 @@ This dataset describes hotel demand data. One of the hotels is a resort hotel an
 ##### How to view :
 - download the notebook and the csv file in the hotel_bookings folder 
 - run the notebook to view all the graphs
-- if you faced any problem with any libraries, try to run the command "pip install <library name>" 
+- if you faced any problem with any libraries, try to run the command : pip install 'library name'
