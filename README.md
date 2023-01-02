@@ -1,5 +1,5 @@
 # Data-science-mini-projects
-## first project :
+## First project :
 ### Hotel demand analysis
 
 ##### About 
@@ -7,5 +7,19 @@ This dataset describes hotel demand data. One of the hotels is a resort hotel an
 
 ##### How to view :
 - download the notebook and the csv file in the hotel_bookings folder 
+- run the notebook to view all the graphs
+- if you faced any problem with any libraries, try to run the command : pip install 'library name'
+
+
+
+## Second project :
+### Hotel demand analysis
+
+##### About 
+This data set describes the student performance in various subjects and in this project aims to find what factors can play a role in the student grades
+
+
+##### How to view :
+- download the notebook and the csv file in the student performance folder 
 - run the notebook to view all the graphs
 - if you faced any problem with any libraries, try to run the command : pip install 'library name'
