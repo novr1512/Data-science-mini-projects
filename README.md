@@ -23,3 +23,10 @@ This data set describes the student performance in various subjects and in this 
 - download the notebook and the csv file in the student performance folder 
 - run the notebook to view all the graphs
 - if you faced any problem with any libraries, try to run the command : pip install 'library name'
+
+
+
+## third project :
+### House price prediction 
+
+still working on it  
