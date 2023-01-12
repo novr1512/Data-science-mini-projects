@@ -29,4 +29,13 @@ This data set describes the student performance in various subjects and in this 
 ## third project :
 ### House price prediction 
 
-still working on it  
+##### About 
+This dataset describes the various features of houses and their prices
+the full description for all features is in the data_description.txt file 
+
+
+##### How to view :
+- download the notebook and the csv file in the House_prediction_dataset folder 
+- run the notebook to view all the graphs
+- re-runing the file will result in different evalution matrices
+- if you faced any problem with any libraries, try to run the command : pip install 'library name'
